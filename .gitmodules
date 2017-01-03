@@ -1,0 +1,3 @@
+[submodule "sub_repo"]
+	path = sub_repo
+	url = https://Navya1521@bitbucket.org/Navya1521/sub_repo.git
